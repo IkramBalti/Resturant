@@ -1,0 +1,41 @@
+
+body
+{
+    background: wheat;
+    background-size: cover;
+}
+.mainNav{
+    text-align: center;
+    padding: auto;
+    grid-rows-row: 2px;
+}
+.navBox1
+{
+ width: 100%;
+ height: 48px;
+ background-color: rgb(173, 130, 64);
+ display: inline-block;
+ text-align: center;
+ border: 2px double rgb(48, 36, 126);
+}
+.navBox3
+{
+ width: 20%;
+ height: 400px;
+ background-color: rgb(245, 242, 238);
+ display: inline-flexbox;
+text-align: center;
+border: 4px solid rgb(37, 56, 86);
+}
+.navBox4
+{
+ margin-right: 0;
+ margin-top: -700px;
+ margin-left: 21%;
+ margin-bottom: 15px;
+ width: 79%;
+ height: 400px;
+ background-color: rgb(245, 242, 238);
+ display: inline-block;
+border: 4px solid rgb(87, 131, 21);
+}
